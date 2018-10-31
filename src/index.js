@@ -19,6 +19,12 @@ module.exports = () => {
         case 'start':
             require('./cmds/start')(args)
             break;
+        // case 'start':
+        //     require('./cmds/save')(args)
+        //     break;
+        // case 'start':
+        //     require('./cmds/time')(args)
+        //     break;
         case 'version':
             require('./cmds/version')(args)
             break;
