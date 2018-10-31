@@ -8,4 +8,6 @@
 ## Contribute 
 dont kill yourself just create a branch, do your stuff. we go merge this nigga later
 
-Development in progress
+
+##Development in progress
+run with /src/bin/outside

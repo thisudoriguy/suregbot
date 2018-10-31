@@ -1,0 +1,26 @@
+{
+  "name": "cli_bot",
+  "version": "1.0.0",
+  "description": "bot for suregs",
+  "main": "src/index.js",
+  "bin": {
+    "outside": "bin/outside"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisudoriguy/suregbot.git"
+  },
+  "keywords": [
+    "Telegram",
+    "cli"
+  ],
+  "author": "suregs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thisudoriguy/suregbot/issues"
+  },
+  "homepage": "https://github.com/thisudoriguy/suregbot#readme"
+}
