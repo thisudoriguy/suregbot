@@ -10,4 +10,4 @@ dont kill yourself just create a branch, do your stuff. we go merge this nigga l
 
 
 ##Development in progress
-run with /src/bin/outside
+run with /src/bin/outside [command]
